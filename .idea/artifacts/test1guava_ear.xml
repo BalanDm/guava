@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="test1guava:ear">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="myEarName.ear">
+      <element id="artifact" artifact-name="test1guava:ear exploded" />
+    </root>
+  </artifact>
+</component>
